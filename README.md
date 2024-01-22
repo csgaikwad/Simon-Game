@@ -26,7 +26,7 @@ Simon's Game is a classic memory and pattern recognition game. The game presents
 - jQuery
 
 ## Code Structure
-- `app.js`: Contains the JavaScript code for game logic.
+- `index.js`: Contains the JavaScript code for game logic.
 - `styles.css`: Defines the styling for the game interface.
 
 ## Getting Started
